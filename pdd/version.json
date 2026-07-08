@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "package_url": "https://raw.githubusercontent.com/luo520688-byte/pdd-client-hotupdate/main/pdd/patches/PDDClient_patch_1.0.1.zip",
+  "sha256": "b017657d138942972f1161316462113c09135f3117b0f53740b18edb511fd99e",
+  "files": [
+    "client.py"
+  ]
+}
