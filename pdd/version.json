@@ -1,10 +1,11 @@
 {
-  "version": "1.0.5",
-  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.0.5.zip",
-  "sha256": "d8346cb93a2530415b721c462f40df6cb59b0fb51279f64c992bb5a9040235f7",
+  "version": "1.0.6",
+  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.0.6.zip",
+  "sha256": "39116b595a8c657220b738f6e23da173e40ecc8f79635c2fab08ec11babb25d3",
   "files": [
     "client.py",
-    "image_gen.py",
-    "product_library.py"
+    "roas_monitor.py",
+    "launcher.py",
+    "auto_updater.py"
   ]
 }
