@@ -1,10 +1,10 @@
 {
-  "version": "1.0.9",
-  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.0.9.zip",
-  "sha256": "aaf8d2f053c0630858fb120e7180a6b1fc138088ee071c94ef6f2fcb3ffcf2c5",
+  "version": "1.1.0",
+  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.1.0.zip",
+  "sha256": "68f61aed2660603fa3f6190ccc83e81b0aed49bcdfc64c44595a74d7e88bfd57",
   "files": [
     "client.py",
-    "pdd_inspect.py",
-    "roas_scan.py"
+    "pdd_delete.py",
+    "roas_promote.py"
   ]
 }
