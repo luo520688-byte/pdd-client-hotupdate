@@ -1,9 +1,10 @@
 {
-  "version": "1.1.4",
-  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.1.4_portable_manifest.zip",
-  "sha256": "ee3731865eeebab8860c84fd7326c499217c83a2cb938ea89e334a9fe7724a6a",
+  "version": "1.1.5",
+  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.1.5_review_appeal_bundle.zip",
+  "sha256": "5436661f5663e37f0067630ef96f24fa7163fa7dbb861bcd82eb9310d488ee14",
   "files": [
     "client.py",
-    "update_config.json"
+    "pdd_review_appeal.py",
+    "pdd_takedown.py"
   ]
 }
