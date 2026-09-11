@@ -1,12 +1,8 @@
 {
-  "version": "1.2.2",
-  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.2.2.zip",
-  "sha256": "3dc142a8aa399337ae59408373810f7791b287de2055f627daa1eb7476e9a7a2",
+  "version": "1.2.3",
+  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.2.3.zip",
+  "sha256": "ae5715a38de2c3fe134d3f9df2a42129a3e4177a3e765f8aff4d6e592e46ad1c",
   "files": [
-    "client.py",
-    "activity_sku_cleanup.py",
-    "smart_sku.py",
-    "pdd_limited_promotion.py",
-    "activity_sku_gift_library.json"
+    "pdd_sync_status.py"
   ]
 }
