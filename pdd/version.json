@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.2.4.zip",
-  "sha256": "1afb8fe5061114bd13b7b826630a2a68e8682c8c5ed316a6617a0df1e03de74b",
+  "version": "1.2.5",
+  "package_url": "https://cdn.jsdelivr.net/gh/luo520688-byte/pdd-client-hotupdate@main/pdd/patches/PDDClient_patch_1.2.5.zip",
+  "sha256": "d423f955309b2139ad48855595523d026ee0f9fd593f08614fd98df135a2b525",
   "files": [
     "client.py",
     "main.py",
@@ -12,6 +12,9 @@
     "pdd_sync_status.py",
     "activity_price_compare.py",
     "roas_calc.py",
-    "roas_scan.py"
+    "roas_scan.py",
+    "pdd_video_cleanup.py",
+    "pdd_video_cleanup_browser.py",
+    "pdd_video_cleanup_worker.py"
   ]
 }
